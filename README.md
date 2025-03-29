@@ -76,7 +76,7 @@ To achieve proficiency in data science and machine learning, follow this structu
   - Machine Learning Mastery ([Link](https://machinelearningmastery.com/))
 
 - **Data Preprocessing:**
-  - Data Preprocessing in Machine Learning ([Link](https://www.javatpoint.com/data-preprocessing-machine-learning))
+  - Data Preprocessing in Machine Learning ([Link](https://www.tpointtech.com/data-preprocessing-machine-learning))
 
 - **Machine Learning Libraries:**
   - scikit-learn documentation ([Link](https://scikit-learn.org/stable/))
